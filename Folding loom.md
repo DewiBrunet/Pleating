@@ -1,14 +1,17 @@
-The **Folding loom**, a tool made for :         <br/>
-<br/>          
-_______________________________exploring new pattern__________________producing repetitive folding__________________________learning for folding beginners_____________________
+The Folding loom, a tool made for :         <br/>
+<br/>
+       
+------ __EXPLORING folding pattern__ ------------ __PRODUCING repetitive folding__ ------------------------------------ __LEARNING folding__ ------------
 
 <img align="left" src="https://user-images.githubusercontent.com/25649502/208255089-ca2f8ed4-26e3-49fa-9319-2cabe27e912c.JPG" alt="alt text" width="280" height="220"><img align="middle" src="https://user-images.githubusercontent.com/25649502/208255096-c37bd1cf-ac10-4819-b476-07750ec8e35e.jpg" alt="alt text" width="280" height="220"><img align="right" src="https://user-images.githubusercontent.com/25649502/208255071-270a7a1f-1d32-4d2f-a325-e8789da97c7f.jpg" alt="alt text" width="280" height="220"> 
 
+<br/>
 <br/>
 
 **Some background**<br/>
 One of the most famous techniques used for textile pleating use cardboard moulds. The textile in between the two folded paper moulds then refolded together and put in a steamer to fix the pleats. Historically, the creator making the moulds and the ones using them were two separate jobs. Nowadays, only few still know how to make precise and complex moulds, most of them still use century old ones like in [Lognon](https://www.youtube.com/watch?v=I5uAuH4k1qc). Folding loom aims to tackle this challenge and propose a portable matrice to explore and produce paper molds.
 
+<br/>
 
 # Making the loom
 
@@ -77,19 +80,24 @@ folding process depends on your pattern by I find it easier to start by making t
 **Step 6 : folding again**
 repeat process another time to have your second mold ready for textile pleating.
 
-<img align="left" src="https://user-images.githubusercontent.com/25649502/208509860-974be590-8fc4-404b-bad1-b4ffc4abc4de.JPG" alt="alt text" width="180" height="180">
-<img align="left" src="https://user-images.githubusercontent.com/25649502/208509893-f98067a4-917d-42c8-bd5f-ae0030e4d81a.JPG" alt="alt text" width="180" height="180">
-<img align="left" src="https://user-images.githubusercontent.com/25649502/208509930-05d65488-d326-4968-bb84-09ec7015d0a7.JPG" alt="alt text" width="180" height="180">
-<img align="left" src="https://user-images.githubusercontent.com/25649502/208509951-d33bb3c4-a55a-4f18-8723-eec857773d10.JPG" alt="alt text" width="180" height="180">
-<img align="left" src="https://user-images.githubusercontent.com/25649502/208509984-26848474-48e2-4549-8ccb-729eaed76837.JPG" alt="alt text" width="180" height="180">
+<br/> 
+<br/> 
+
+<img align="left" src="https://user-images.githubusercontent.com/25649502/208509860-974be590-8fc4-404b-bad1-b4ffc4abc4de.JPG" alt="alt text" width="170" height="170">
+<img align="left" src="https://user-images.githubusercontent.com/25649502/208509893-f98067a4-917d-42c8-bd5f-ae0030e4d81a.JPG" alt="alt text" width="170" height="170">
+<img align="left" src="https://user-images.githubusercontent.com/25649502/208509930-05d65488-d326-4968-bb84-09ec7015d0a7.JPG" alt="alt text" width="170" height="170">
+<img align="left" src="https://user-images.githubusercontent.com/25649502/208509951-d33bb3c4-a55a-4f18-8723-eec857773d10.JPG" alt="alt text" width="170" height="170">
+<img align="left" src="https://user-images.githubusercontent.com/25649502/208509984-26848474-48e2-4549-8ccb-729eaed76837.JPG" alt="alt text" width="170" height="170">
 <br/> 
 <br/> 
 <br/><br/> 
 <br/> 
 <br/> 
+<br/> 
+<br/> 
 
 **Things that can go wrong :**  
-- My paper is marked by the burnt lines of the laser : put more ventilation in the laser, thing a wood that leaves less burn but don’t worry after a few use it should disappear                                
+- My paper is marked by the burnt lines of the laser : put more ventilation in the laser, find a wood that leaves less burn but don’t worry after a few use it should disappear                                
 - You removed the clips/tape too soon or did not attach it correctly and the paper moved: it will be very difficult to place it back to its exact place (I recommend to fix it very tightly but you leave a free corner to lift the paper if you are not sure where the lines are at first).<br/>
 - The paper breaks on the embossed lines: the laser engraving is too deep or the paper too thin or you used too much force during embossing<br/>
 - It’s hard to find my embossing lines during folding : the laser engraving is not deep enough or the paper too thick or you used too little force during embossing
